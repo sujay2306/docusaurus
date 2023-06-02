@@ -71,7 +71,6 @@ At the same time, we also meet up offline all over the world. Here are some acti
 
 ## Writers
 
-
 To get to know all our writers, see <https://github.com/wechaty/wechaty.js.org/graphs/contributors>
 
 ## History
